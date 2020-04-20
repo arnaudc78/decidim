@@ -24,5 +24,4 @@ $(() => {
   $(document).on("closed.zf.callout", (event) => {
     $(event.target).remove();
   });
-
 });
