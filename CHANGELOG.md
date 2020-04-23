@@ -51,7 +51,7 @@ Due to [\#5553](https://github.com/decidim/decidim/pull/5553), SSL is turned on 
 - **decidim-budgets**: Send email with summary on order checkout [\#6006](https://github.com/decidim/decidim/pull/6006)
 - **decidim-budgets**: Projects filter by multiple categories [/#5992](https://github.com/decidim/decidim/pull/5992)
 - **decidim-core**: Added support for enum settings for components [#6001](https://github.com/decidim/decidim/pull/6001)
-- **decidim-core**: Added support for disabling settings for components [#6001](https://github.com/decidim/decidim/pull/6001)
+- **decidim-core**: Added support for readonly settings for components [#6001](https://github.com/decidim/decidim/pull/6001)
 
 ### Changed
 
